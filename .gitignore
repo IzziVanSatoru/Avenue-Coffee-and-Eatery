@@ -1,0 +1,12 @@
+# Ignore environment file
+.env
+
+# Optional: ignore common OS/editor/temp files
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+
+# Optional: ignore IDE/editor files
+.vscode/
+.idea/
